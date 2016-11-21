@@ -1,0 +1,11 @@
+body {
+  font-family: Times new roman; Verdana; Arial;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+footer ul li {
+  display: inline-block;
+}
