@@ -1,0 +1,9 @@
+But du projet : Créer un site internet en vue de partager notre passion pour la musique (en s'inspirant d'autres sites de partage)
+Contenu : 
+-Accueil (présentation du site / On explique aux visiteurs ce qu'ils peuvent trouver sur le site)
+-Cover (On proposera en téléchargement libre des reprises de morceaux connus jouées par nous)
+-Paroles
+-Compos
+-Artistes
+-Contact 
+
